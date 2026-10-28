@@ -1,3 +1,5 @@
 /code/muestras
 /tests/test001.out
 /tests/test001.err
+/tests/test001.in
+/tests/tests001.expected
